@@ -4,6 +4,12 @@ Offline version of the API samples available at https://help.autodesk.com/view/f
 
 See this thread on the Fusion 360 forum: [Is it possible to download all the API samples at once?](https://forums.autodesk.com/t5/fusion-360-api-and-scripts/is-it-possible-to-download-all-the-api-samples-at-once/m-p/11805018)
 
+# Usage
+
+Download the [zip file containing the latest version of this repository](https://github.com/JeromeBriot/fusion360-offline-api-samples/releases/latest) and extract its content on your machine.
+
+Go to the **UTILITIES > ADD-INS > Scripts and Add-ins…** menu to import the sample.
+
 # Version history
 
 - Version 0.1.0 - March 2023
