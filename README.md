@@ -10,6 +10,8 @@ Download the [zip file containing the latest version of this repository](https:/
 
 Go to the **UTILITIES > ADD-INS > Scripts and Add-ins…** menu to import the sample.
 
+:warning: The C++ scripts have to be compiled before the first use.
+
 # Version history
 
 - Version 0.1.0 - March 2023
