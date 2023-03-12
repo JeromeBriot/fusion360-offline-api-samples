@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Demonstrates several ways to create sketch lines, including as the result of creating a rectangle"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

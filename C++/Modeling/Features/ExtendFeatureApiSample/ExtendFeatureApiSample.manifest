@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Demonstrates creating a new extend feature"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

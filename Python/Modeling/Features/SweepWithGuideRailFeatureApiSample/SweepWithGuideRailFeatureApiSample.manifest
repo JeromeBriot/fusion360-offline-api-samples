@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Demonstrates creating a new Sweep feature that uses a guide rail along with a profile"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

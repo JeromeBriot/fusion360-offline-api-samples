@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Add-In that demonstrates application events"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

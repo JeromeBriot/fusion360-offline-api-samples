@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Demonstrates adding a new toolpath into the document using an existing CAM template"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

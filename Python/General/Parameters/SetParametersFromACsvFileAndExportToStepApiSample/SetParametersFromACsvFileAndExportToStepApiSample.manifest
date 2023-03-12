@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Reads data from a "
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Deletes empty components from the active design"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

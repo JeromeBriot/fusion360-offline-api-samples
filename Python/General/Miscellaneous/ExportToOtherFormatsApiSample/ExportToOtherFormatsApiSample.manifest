@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Demonstrates exporting the active design to IGES, STEP, SAT, SMT, F3D and STL formats"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

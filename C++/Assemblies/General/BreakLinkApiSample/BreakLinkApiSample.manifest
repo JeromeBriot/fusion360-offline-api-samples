@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Iterates over all top-level occurrences and if it's a referenced component, it will break the link"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

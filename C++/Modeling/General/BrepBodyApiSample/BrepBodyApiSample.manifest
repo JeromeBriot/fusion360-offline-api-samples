@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"B-Rep (Boundary Representation) body related functions"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

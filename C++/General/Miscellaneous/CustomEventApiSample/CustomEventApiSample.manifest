@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Demonstrates the ability to call into the main thread from a worker thread"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

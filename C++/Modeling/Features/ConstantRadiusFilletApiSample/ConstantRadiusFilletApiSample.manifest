@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Creates a constant radius fillet on the selected edge"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

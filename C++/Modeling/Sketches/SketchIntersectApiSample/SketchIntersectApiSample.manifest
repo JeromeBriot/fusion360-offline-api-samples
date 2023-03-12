@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Intersects the specified entities with the sketch plane and creates sketch geometry that represents the intersection"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

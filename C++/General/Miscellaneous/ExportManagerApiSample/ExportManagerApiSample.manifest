@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Demonstrates how to export f3d to different formats"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

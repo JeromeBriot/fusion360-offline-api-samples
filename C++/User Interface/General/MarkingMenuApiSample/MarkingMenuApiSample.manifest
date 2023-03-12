@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Demonstrates how to customize marking menu and context menu"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

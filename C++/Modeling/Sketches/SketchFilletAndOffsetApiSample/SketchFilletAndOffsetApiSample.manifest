@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Demonstrates the creation of a fillet in a sketch and offset a set of curves"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

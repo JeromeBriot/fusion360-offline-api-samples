@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Demonstrating how to pop up a file dialog and a folder dialog"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

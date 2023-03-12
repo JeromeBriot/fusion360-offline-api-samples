@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Demonstrates generating the setup sheets for an existing toolpath"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

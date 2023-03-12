@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Traverses the entire structure of the currently open assemlby using a recursive function and displays the result in a message box"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

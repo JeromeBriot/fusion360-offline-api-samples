@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Projects the specified set of curves onto the specified set of faces using the specified method of projection"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

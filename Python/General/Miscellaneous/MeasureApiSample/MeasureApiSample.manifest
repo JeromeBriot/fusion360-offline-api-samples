@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Measure related functions"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

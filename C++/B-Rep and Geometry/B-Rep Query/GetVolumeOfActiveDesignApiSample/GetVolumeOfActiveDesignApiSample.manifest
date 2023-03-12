@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Traverses through the active design and totals the volume of every body within the design"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

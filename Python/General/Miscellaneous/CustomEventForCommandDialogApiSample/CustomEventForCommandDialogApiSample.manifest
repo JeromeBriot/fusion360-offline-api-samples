@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Demonstrates using a custom event to process getting information in the background to display in a command dialog"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

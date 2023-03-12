@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Creates a series of images of a design where a parameter is being changed"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

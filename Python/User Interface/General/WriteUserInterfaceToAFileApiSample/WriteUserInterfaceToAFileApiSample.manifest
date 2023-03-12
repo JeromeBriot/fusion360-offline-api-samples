@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Writes out the full structure of the Fusion user interface"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

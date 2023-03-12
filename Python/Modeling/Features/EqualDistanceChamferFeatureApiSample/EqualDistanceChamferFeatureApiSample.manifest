@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Creates an equal distance chamfer on the selected edge"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

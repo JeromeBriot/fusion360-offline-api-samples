@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Creates a new revolve feature, resulting in a new component"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

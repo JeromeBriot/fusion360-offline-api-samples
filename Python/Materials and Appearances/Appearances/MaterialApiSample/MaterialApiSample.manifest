@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Demonstrates using materials and appearance using the API"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

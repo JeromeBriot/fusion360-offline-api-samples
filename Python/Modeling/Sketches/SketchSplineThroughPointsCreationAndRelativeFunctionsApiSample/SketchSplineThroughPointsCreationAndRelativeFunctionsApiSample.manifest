@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Autodesk Inc.",
+	"description":	{
+		"":	"Create a sketch spline with points and use some operations for spline tangent handle & curvature handle"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
